@@ -1,0 +1,9 @@
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\obj\Debug\PruebasUnitariasTest.csprojResolveAssemblyReference.cache
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\bin\Debug\PruebasUnitariasTest.dll
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\bin\Debug\PruebasUnitariasTest.pdb
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\bin\Debug\DemoPruebasUnitarias.exe
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\bin\Debug\DemoPruebasUnitarias.pdb
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\obj\Debug\PruebasUnitariasTest.dll
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\PruebasUnitariasTest\obj\Debug\PruebasUnitariasTest.pdb

@@ -1,0 +1,5 @@
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\DemoPruebasUnitarias\bin\Debug\DemoPruebasUnitarias.exe.config
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\DemoPruebasUnitarias\bin\Debug\DemoPruebasUnitarias.exe
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\DemoPruebasUnitarias\bin\Debug\DemoPruebasUnitarias.pdb
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\DemoPruebasUnitarias\obj\Debug\DemoPruebasUnitarias.exe
+c:\users\cgonzalez\documents\visual studio 2015\Projects\DemoPruebasUnitarias\DemoPruebasUnitarias\obj\Debug\DemoPruebasUnitarias.pdb
